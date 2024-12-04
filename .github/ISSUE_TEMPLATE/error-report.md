@@ -1,7 +1,7 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: "[BUG]"
+name: Error Report
+about: Report any errors on the webpage
+title: "[FIXME]"
 labels: ''
 assignees: imcmy
 
